@@ -12,6 +12,7 @@
 		6E38E6222BCEBCE700535C90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E38E6212BCEBCE700535C90 /* Assets.xcassets */; };
 		6E38E6252BCEBCE700535C90 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E38E6242BCEBCE700535C90 /* Preview Assets.xcassets */; };
 		6E38E62C2BCEBE3800535C90 /* MenuItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E38E62B2BCEBE3800535C90 /* MenuItems.swift */; };
+		6E6529DE2BD06CD300C4ECF4 /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E6529DD2BD06CD300C4ECF4 /* MenuListRow.swift */; };
 		6E8868232BD0333E00F8E14E /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E8868222BD0333E00F8E14E /* DataService.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		6E38E6212BCEBCE700535C90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E38E6242BCEBCE700535C90 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6E38E62B2BCEBE3800535C90 /* MenuItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItems.swift; sourceTree = "<group>"; };
+		6E6529DD2BD06CD300C4ECF4 /* MenuListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
 		6E8868222BD0333E00F8E14E /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 				6E38E62B2BCEBE3800535C90 /* MenuItems.swift */,
 				6E8868222BD0333E00F8E14E /* DataService.swift */,
 				6E38E61F2BCEBCE700535C90 /* ContentView.swift */,
+				6E6529DD2BD06CD300C4ECF4 /* MenuListRow.swift */,
 				6E38E6212BCEBCE700535C90 /* Assets.xcassets */,
 				6E38E6232BCEBCE700535C90 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 				6E38E6202BCEBCE700535C90 /* ContentView.swift in Sources */,
 				6E38E61E2BCEBCE700535C90 /* MenuAppApp.swift in Sources */,
 				6E38E62C2BCEBE3800535C90 /* MenuItems.swift in Sources */,
+				6E6529DE2BD06CD300C4ECF4 /* MenuListRow.swift in Sources */,
 				6E8868232BD0333E00F8E14E /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
