@@ -10,5 +10,5 @@ import Foundation
 struct MenuItem {
     var name:String
     var price:String
-    var image:String
+    var imageName:String
 }
