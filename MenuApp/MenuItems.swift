@@ -7,7 +7,11 @@
 
 import Foundation
 
-struct MenuItem {
+// Here we create a new UUID to differentiate it from others
+// We introduce Identifiable protocol and UUID
+struct MenuItem: Identifiable {
+    
+    var id: UUID = UUID()  // This will create a new UUID for each element
     var name:String
     var price:String
     var imageName:String
